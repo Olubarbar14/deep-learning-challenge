@@ -12,5 +12,8 @@
 ## 1: Preprocess the Data
 ###### A: Read the csv file
 ![](images/load%20csv.png)
+###### B: Drop the EIN and Name columns because they are neither targets or features
+![](images/drop_ein_name.png)
+
         
 
