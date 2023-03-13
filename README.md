@@ -11,6 +11,6 @@
 
 ## 1: Preprocess the Data
 ###### A: Read the csv file
-        ![](images/load%20csv.png)
+![](images/load%20csv.png)
         
 
